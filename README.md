@@ -5,11 +5,17 @@ Backgrounds:
 - The company was founded in December 2010 and immediately attracted many business clients within first 3 months
 - The monthly total sales dropped starting in Dec 2011. Since it’s the season that most people would make more purchase for gifting, the marketing and sales team were concerned about the revenue performance.
 - The marketing team had analyzed all the factors and decided in order to get better conversion and retention, they need to understand the segmentation of the clients in order to create better marketing campaigns.
+
+
 Methods:
 - Exploratory data analysis
 - K-Means clustering
+
+
 Results:
 - Clustered customers into 3 groups
+
+
 Recommendations:
 - Customers clearing all the three cut-offs (RFM) are the most reliable customers. Business should focus on making customized promotional strategies and loyalty schemes for these customers in order to retain this valuable customer base.
 - Customers failing the recency criterion only are those customers who have stopped visiting the site. Business should focus on these customers and look out for the reason why they abandoned visiting the site.
